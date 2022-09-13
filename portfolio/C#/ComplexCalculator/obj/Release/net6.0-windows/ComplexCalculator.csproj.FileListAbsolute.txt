@@ -1,0 +1,8 @@
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.csproj.AssemblyReference.cache
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.Form1.resources
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.Properties.Resources.resources
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.csproj.GenerateResource.cache
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.AssemblyInfoInputs.cache
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.AssemblyInfo.cs
+C:\Users\fonfo\Desktop\学习\UA\3460-408_WindowsProgramming\Assignment\A2-Calculator\WinFormsApp1\obj\Release\net6.0-windows\ComplexCalculator.csproj.CoreCompileInputs.cache

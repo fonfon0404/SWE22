@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXFaRklxwfU2tL1IKDkMDyQAAAAACAAAAAAAQZgAAAAEAACAAAABzvW1EMvnwdPw6cVVcd3tcLofRAihr6E9jtV/Gk1CUewAAAAAOgAAAAAIAACAAAAB5zTkVMVreVX1M5ZQO9oO3FORdsfEsIYyfGciV1Z4rpYAAAAA6ZXANhTxMVkBrPXMNu2vlorbRebArtMyyNXwIlMugZ3zraPV1sTRwtteNZVptaJUHjwn9623AJ1WJx8trvodTXbHH3K3oWbo1/eu1mdrHQDJMCfuvufItLHcXFSXmeZ1BY+y3HMuHNmZIr52hkevhBXQhHmXp1u1RopUwEBDbwEAAAABQejE0vRZPXVo5kjPcGOAnTkav9LlZs8MYQQh5VIG5UhFIQ6cB1ThULE5wQl12hPCws0AevMbaS/KTKykJwc5p</EncryptedPassword>
+    <History>True|2022-08-09T07:20:36.2042511Z;True|2022-08-09T03:17:04.0487999-04:00;False|2022-08-09T03:11:26.4166300-04:00;True|2022-08-09T02:03:32.7228103-04:00;False|2022-08-09T02:02:16.2937509-04:00;False|2022-08-09T00:20:43.0099958-04:00;</History>
+  </PropertyGroup>
+</Project>
